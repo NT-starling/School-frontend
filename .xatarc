@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://NT-starling-s-workspace-llaajm.eu-central-1.xata.sh/db/School_portal",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

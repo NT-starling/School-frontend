@@ -1,0 +1,13 @@
+{
+  "id": "mig_cna2a9qot24fcbuvobrg",
+  "parentID": "mig_cna2a92ot24fcbuvobqg",
+  "checksum": "1:2703ed73d8dcbfc38ba727a29e5d420e95ae650acbe8980d10fe48b54ee7dd62",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "role",
+        "table": "nextauth_users"
+      }
+    }
+  ]
+}

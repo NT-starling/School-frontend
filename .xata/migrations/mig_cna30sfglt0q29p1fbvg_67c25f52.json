@@ -1,0 +1,12 @@
+{
+  "id": "mig_cna30sfglt0q29p1fbvg",
+  "parentID": "mig_cna2a9qot24fcbuvobrg",
+  "checksum": "1:67c25f52ec2c73e834b8bec0cc479ea0aa806b2bf7210ddc33403c290686d3dc",
+  "operations": [
+    {
+      "addTable": {
+        "table": "posts"
+      }
+    }
+  ]
+}
